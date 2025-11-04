@@ -1,5 +1,7 @@
 # CLAUDE.md
 
+
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
@@ -13,3 +15,4 @@ This repository is currently in initial setup phase. No build system, package ma
 ## Architecture
 
 Architecture details will be documented here as the codebase develops.
+- Use Context7 to check up-to-date docs when needed for implementing new libraries or frameworks, or adding features using them.
