@@ -1,0 +1,11 @@
+{
+  "tools": {
+    "Edit": true,
+    "Bash": true,
+    "SwiftLint": true
+  },
+  "mcp": {
+    "enabled": true,
+    "autoDetect": true
+  }
+}
